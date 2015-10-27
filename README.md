@@ -19,4 +19,6 @@ Automate an end-to-end user e-commerce transaction flow using any open source to
 * Remove items from the cart if cart is not empty already.
 * The code will be used to test for search terms from test data.
 * The selected item should have only color. There should not be any option to choose color or size while adding item to cart.
+* 'Add to Cart' button is reponsive all the time. Sometime it donot respond with selenium driver whihc cause test case to fail.
+
 
