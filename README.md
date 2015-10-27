@@ -28,6 +28,4 @@ Automate an end-to-end user e-commerce transaction flow using any open source to
 * Open TestCase.java class
 * Intilize the string 'itemToSearch'  with one of the searh item. The value should be in lower case.
 
-### Future Improvements
-
 
