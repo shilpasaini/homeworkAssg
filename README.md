@@ -21,4 +21,13 @@ Automate an end-to-end user e-commerce transaction flow using any open source to
 * The selected item should have only color. There should not be any option to choose color or size while adding item to cart.
 * 'Add to Cart' button is reponsive all the time. Sometime it donot respond with selenium driver whihc cause test case to fail.
 
+### Instructions to run the code
+* Copy the repo using command "git clone https://github.com/shilpasaini/homeworkAssg.git" .
+* In Eclipse(JDK 1.8), import the project using Existing project in workspace.
+* Make sure "chromerdriver.exe" is present in project directory.
+* Open TestCase.java class
+* Intilize the string 'itemToSearch'  with one of the searh item. The value should be in lower case.
+
+### Future Improvements
+
 
