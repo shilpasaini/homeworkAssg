@@ -27,5 +27,6 @@ Automate an end-to-end user e-commerce transaction flow using any open source to
 * Make sure "chromerdriver.exe" is present in project directory.
 * Open TestCase.java class
 * Intilize the string 'itemToSearch'  with one of the searh item. The value should be in lower case.
+* Right click on 'TestCase.java' and Run as 'JUnit Test'.
 
 
